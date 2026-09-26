@@ -4,7 +4,7 @@ export default function Footer() {
       <div className="mx-auto flex max-w-[var(--maxw)] flex-col items-start justify-between gap-5 px-6 py-12 sm:flex-row sm:items-end">
         <div>
           <p className="font-display text-lg font-normal">
-            AI-Assisted Filmmaking from a Labor-Centered Perspective: A Survey of Systems in HCI Research
+            AI Systems for Filmmaking: A Survey of HCI Research from a Labor-Centered Perspective
           </p>
           <p className="mt-1.5 text-sm text-[var(--muted)]">
             Yuying Tang

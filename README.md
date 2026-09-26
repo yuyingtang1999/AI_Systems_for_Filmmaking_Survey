@@ -1,6 +1,6 @@
 # Algorithm behind the Lens
 
-An interactive showcase of Yuying Tang's PQE survey, **"AI-Assisted Filmmaking from a Labor-Centered Perspective: A Survey of Systems in HCI Research."** Built with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS v4**. Nothing is hardcoded to a local machine — clone it anywhere, install, and run.
+An interactive showcase of Yuying Tang's PQE survey, **"AI Systems for Filmmaking: A Survey of HCI Research from a Labor-Centered Perspective."** Built with **Next.js 15 (App Router)**, **TypeScript**, and **Tailwind CSS v4**. Nothing is hardcoded to a local machine — clone it anywhere, install, and run.
 
 ## What's inside
 

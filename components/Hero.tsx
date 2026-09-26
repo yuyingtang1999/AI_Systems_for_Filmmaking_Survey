@@ -21,7 +21,7 @@ export default function Hero() {
             </span>
 
             <h1 className="font-display mt-7 text-[1.9rem] font-semibold leading-[1.08] tracking-[-0.01em] text-[var(--ink)] sm:text-[2.9rem]">
-              AI-Assisted Filmmaking from a Labor-Centered Perspective: A Survey of Systems in HCI Research
+              AI Systems for Filmmaking: A Survey of HCI Research from a Labor-Centered Perspective
             </h1>
 
             <p className="font-display mt-4 text-xl text-[var(--muted)] sm:text-[1.4rem]">

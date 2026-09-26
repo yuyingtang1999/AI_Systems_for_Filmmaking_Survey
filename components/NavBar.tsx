@@ -70,7 +70,7 @@ export default function NavBar() {
           </span>
           <span className="font-display text-[0.95rem] font-medium tracking-tight">
             A Survey of{" "}
-            <span className="italic text-[var(--muted)]">AI-Assisted Filmmaking</span>
+            <span className="italic text-[var(--muted)]">AI Systems for Filmmaking</span>
           </span>
         </button>
 
